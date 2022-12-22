@@ -1,0 +1,98 @@
+body{
+  background: #062226;
+}
+
+.location-card{
+  position: relative;
+  width: 890px;
+  height: 140px;
+  left: 230px;
+  top: 500px;
+  background: #0a2f35;
+  box-shadow: 5px 5px ;
+}
+
+.Banner{
+  position: absolute;
+  left: 170px;
+  top: 80px;
+  box-shadow: 5px 5px ;
+}
+
+
+.location-card h2{
+  color: #01ea20;
+  text-align: center;
+  padding: 10px;
+}
+
+.Type{
+  color: #0a7de2;
+  list-style: none;
+  text-align: left;
+}
+
+.Dimension{
+  color: #a6740f;
+  list-style: none;
+  text-align: center;
+}
+.Population{
+  color: #8740ce;
+  list-style: none;
+  text-align: end;
+  padding-right: 30px;
+}
+
+.Resident-card {
+background: #062226;
+border-radius: 0px 0px 4px 4px;
+}
+
+.App form{
+  padding-top: 45%;
+  text-align: center;
+  width: 200%;
+  height: 150px;
+  max-width: 1341px;
+  position: relative;
+  overflow: hidden;
+}
+
+.App form input{
+  background: none;
+  color: #fff;
+  padding-top: 20px;
+  border: none;
+  outline: 0px;
+  border-bottom: 1px solid #c7c7c7;
+}
+
+.App form .text-search{
+  border: none;
+  background: #01ea20;
+  color: #000000;
+  border-radius: 1rem;
+}
+
+.Resident-card ul li{
+list-style: none;
+text-align: center;
+color: #ffffff;
+
+}
+.Resident-card{
+  list-style: none;
+  text-align: center;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  width: 50%;
+  padding-left: 30%;
+
+  }
+
+  .Resident-card .status{
+   color: #94a40b;
+    }
+
+
