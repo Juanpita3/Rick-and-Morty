@@ -17,6 +17,9 @@ body{
   left: 170px;
   top: 80px;
   box-shadow: 5px 5px ;
+  background-image: url('/src/img/rick_and_morty.png');
+  width: 1000px; 
+  height: 400px;
 }
 
 
