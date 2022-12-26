@@ -32,7 +32,7 @@ function App() {
   return (
     <div className="App">
       <div className="Banner">
-    <img src="src\img\rick_and_morty.png" style={{ width: '1000px', height: '400px' }} alt="" />
+
       </div>
       <LocationInfo location={location} />
 
